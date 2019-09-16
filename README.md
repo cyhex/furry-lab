@@ -1,6 +1,8 @@
 # furry-lab
 load and explore data relations bertween OEC and FIRMS
 
+### running on mac
+`export OBJC_DISABLE_INITIALIZE_FORK_SAFETY=YES`
 
 ### Datasets
 FIRMS
