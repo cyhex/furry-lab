@@ -1,0 +1,32 @@
+{
+  "week": "2011_7",
+  "events": [
+    {
+      "latitude": -17.9466,
+      "longitude": -61.618,
+      "brightness": 310.2,
+      "acq_date": "2011-02-15T00:00:00.000+01:00",
+      "confidence": 80,
+      "bright_t31": 284.3,
+      "week": "2011_7"
+    },
+    {
+      "latitude": -17.9617,
+      "longitude": -61.6025,
+      "brightness": 321.1,
+      "acq_date": "2011-02-15T00:00:00.000+01:00",
+      "confidence": 69,
+      "bright_t31": 292.6,
+      "week": "2011_7"
+    },
+    {
+      "latitude": -18.9617,
+      "longitude": -62.6025,
+      "brightness": 321.1,
+      "acq_date": "2011-02-15T00:00:00.000+01:00",
+      "confidence": 69,
+      "bright_t31": 292.6,
+      "week": "2011_7"
+    }
+  ]
+}
